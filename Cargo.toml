@@ -1,0 +1,13 @@
+[package]
+name = "healthrust"
+version = "0.1.0"
+authors = ["Moi"]
+edition = "2018"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "3"
+whoami = "1.1.0"
+local_ipaddress= "0.1.0"
